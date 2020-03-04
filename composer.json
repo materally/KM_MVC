@@ -1,0 +1,19 @@
+{
+    "name": "kulcsarmate/next-step",
+    "authors": [
+        {
+            "name": "Kulcsar Mate",
+            "email": "kulcsar.mate@creativesales.hu"
+        }
+    ],
+    "require": {
+        "illuminate/database": "^5.8",
+        "phpmailer/phpmailer": "^6.1",
+        "nesbot/carbon": "^2.29"
+    },
+    "autoload": {
+        "classmap": [
+            "app/models"
+        ]
+    }
+}
