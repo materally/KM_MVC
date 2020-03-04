@@ -6,6 +6,7 @@ PHP MVC keretrendszer alap
 
 ```
 git clone
+composer install
 ```
 1. .htaccess-be az URL-t meg kell adni a public könyvtárat) - RewriteBase /KM_MVC/public
 2. app/Config.php adatok megadása
